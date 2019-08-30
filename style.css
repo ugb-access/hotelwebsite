@@ -1,0 +1,12 @@
+/* Reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Main Styling */
+html,body {
+    line-height: 1.7em; 
+    font-family: 'Segoe UI', Tahoma, Genevaw, Verdana, sans-serif;
+    font-size: 100%;
+}
